@@ -1,0 +1,14 @@
+# app
+#EXTM3U
+#EXTINF:-1,MAKKAH
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
+#EXTINF:-1,RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1,INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1,SURAU TV
+http://119.235.249.60:1935/surautv/live/playlist.m3u8
+#EXTINF:-1,WESAL TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1,NIAGA TV
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
